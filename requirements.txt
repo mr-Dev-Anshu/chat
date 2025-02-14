@@ -1,2 +1,2 @@
 Flask==2.1.2
-openai==0.21.0
+openai==1.63.0
